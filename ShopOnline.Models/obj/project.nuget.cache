@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yVyvK2DnbdF/Y7SzcaZhd6StG67puGWbmmznt2PWjgcHVSCmDO3YTid31h/+MUJwzk6+skYSrH6UyZY+86HDKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\okank\\source\\repos\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\okank\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\okank\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\okank\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
